@@ -11,7 +11,7 @@ env:
   AZURE_LOCATION: '"East US"'
   ###############################################
   ### Replace <username> with GitHub username ###
-  ###############################################
+  ################################################
   AZURE_WEBAPP_NAME: tygovanschie-n-ttt-app
 
 jobs:
